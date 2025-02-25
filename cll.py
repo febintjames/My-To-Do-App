@@ -1,4 +1,4 @@
-from function import get_todos,write
+from function import get_todos, write
 
 
 while True:
